@@ -1,5 +1,6 @@
 {
   "name": "my-project",
+  "homepage": "https://Legendsusama.github.io/Spotify_clone",
   "private": true,
   "version": "0.0.0",
   "type": "module",
